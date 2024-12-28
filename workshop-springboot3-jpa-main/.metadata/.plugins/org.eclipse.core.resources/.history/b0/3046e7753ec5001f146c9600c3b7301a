@@ -1,5 +1,0 @@
-package com.projeto22.curso.entities.pk;
-
-public class OrderItemPK {
-
-}
